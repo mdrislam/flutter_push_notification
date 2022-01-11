@@ -1,0 +1,3 @@
+class Constant{
+  static const String serverToken='AAAAGHyNV-I:APA91bEu88APfLf2D3u2a4LWTERV8KQULZNVcu86z5cySNvdCF84TMHqX3KM3nwX9mocsZlBzoRtCm9_fOgG3UaTQ0hDLL6NI9qDC56C6MG18R6pMZPGssz_JQ1kUjqnPFg23GX3bsu5';
+}
